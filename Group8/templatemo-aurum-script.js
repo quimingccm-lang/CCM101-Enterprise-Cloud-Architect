@@ -1,12 +1,6 @@
 // JavaScript Document
 
-/*
 
-TemplateMo 609 Crypto Vault
-
-https://templatemo.com/tm-609-crypto-vault
-
-*/
 
 
 // Navigation scroll effect
