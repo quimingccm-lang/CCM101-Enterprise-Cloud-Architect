@@ -48,7 +48,7 @@ The infrastructure uses a Windows laptop as the physical host, Oracle VirtualBox
 
 VirtualBox forwards host port 8080 to the VM web service on port 80 and host port 2222 to SSH port 22.
 
-![Architecture Diagram](ArchitectureDiagram.png)
+![Architecture Diagram](screenshots/ArchitectureDiagram.png)
 
 ---
 
